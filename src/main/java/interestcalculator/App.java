@@ -12,7 +12,7 @@ public class App
     public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);
-
+         System.out.println("*****THIS IS MY SIMPLE INTERET CALCULATOR !!*****")
         System.out.println("Enter Principal Amount:");
         double principal = sc.nextDouble();
 
